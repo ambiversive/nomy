@@ -1,0 +1,1 @@
+Nomy will take in URLS, save the contents locally using wget, then open the cached copy in an iframe.
